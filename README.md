@@ -1,2 +1,2 @@
 # LabGamev1
-My first game.
+My first game. In this game you must go throught the maze. Maze is diffrent from other in evry time. You can play three level of diffculty. On map you can find some types of helps like bombs, torches and some like that. Bombs break the nerest wall, Torches you can only find on normal and hard level of diffculty. It increase range of visibility. You can also find a bulb. It show you a path to end. If you want to start a game you must use cmd and type :java -jar LabGame.exe
